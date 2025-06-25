@@ -2,7 +2,7 @@
   "name": "DAVE-XMD",
   "version": "1.0.0",
   "description": "WhatsApp Bot by Dave",
-  "main": "index.js",
+  "main": "main.js",
   "type": "commonjs",
   "directories": {
     "lib": "lib",
@@ -10,9 +10,8 @@
     "media": "XeonMedia"
   },
   "scripts": {
-    "code": "node main.js",
-    "start": "node index.js",
-    "bot": "node bot.js"
+    "start": "node main.js",
+    "code": "node main.js"
   },
   "author": "Dave",
   "license": "MIT",
