@@ -11,21 +11,21 @@
   },
   "scripts": {
     "code": "node main.js",
-    "start": "node index.js"
+    "start": "node index.js",
+    "bot": "node bot.js"
   },
   "author": "Dave",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "^5.0.0",
-    "@adiwajshing/keyed-db": "^0.2.4",
     "@hapi/boom": "^10.0.1",
     "@vitalets/google-translate-api": "^9.2.0",
-    "@whiskeysockets/baileys": "^6.6.0",
+    "@whiskeysockets/baileys": "^6.7.1",
     "anime-wallpaper": "^1.0.2",
     "api-dylux": "^1.4.4",
     "aptoide-scraper": "^1.0.1",
     "awesome-phonenumber": "^5.9.0",
     "axios": "^1.4.0",
+    "canvas": "^2.11.2",
     "cfonts": "^3.2.0",
     "chalk": "^4.1.2",
     "cheerio": "^1.0.0-rc.12",
