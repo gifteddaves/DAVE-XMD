@@ -1,5 +1,5 @@
 {
-  "name": "Bellah-Xmd",
+  "name": "DAVE-XMD",
   "version": "1.0.0",
   "description": "WhatsApp bot",
   "logo": "https://i.imgur.com/yZN5Ynv.jpeg",
@@ -14,48 +14,48 @@
       "description": "Enter your session id",
       "value": "",
       "required": true
-},
-  "BOT_NAME": {
+    },
+    "BOT_NAME": {
       "description": "Enter bot name of your choice here",
-      "value": "Bellah Xmd",
+      "value": "DAVE XMD",
       "required": false
     },
-  "OWNER_NUMBER": {
+    "OWNER_NUMBER": {
       "description": "Enter your whatsapp number here",
       "value": "254104245659",
       "required": true
     },
-  "TYPE_MENU": {
+    "TYPE_MENU": {
       "description": "Enter menu of your type,,menu types are V1-V8",
       "value": "V3",
       "required": false
     },
-  "AUTOSW_VIEW": {
+    "AUTOSW_VIEW": {
       "description": "Type true if you want your bot to view status updates or else type false",
       "value": "",
       "required": false
     },
-  "WELCOME": {
-      "description": "Type true if you want your bot to send welcome or goodbye messages in groups or else type fals",
+    "WELCOME": {
+      "description": "Type true if you want your bot to send welcome or goodbye messages in groups or else type false",
       "value": "",
       "required": false
     },
-  "ANTI_CALL": {
+    "ANTI_CALL": {
       "description": "Type true if you want bot to reject incoming calls or else type false",
       "value": "",
       "required": false
     },
-  "AUTO_BLOCK": {
+    "AUTO_BLOCK": {
       "description": "Type true if you want bot to block unknown numbers if else type false",
       "value": "",
       "required": false
     },
-  "ANTIFOREIGN_NUMBER": {
+    "ANTIFOREIGN_NUMBER": {
       "description": "Enter antiforeignnumbers with country codes if you don't want antiforeign numbers",
       "value": "234,263",
       "required": false 
     },
-  "PREFIX": {
+    "PREFIX": {
       "description": "Enter bot prefix of your choice if else leave blank for multiprefixes",
       "value": ".",
       "required": true
@@ -65,7 +65,7 @@
       "value": "false",
       "required": false
     }
-    },
+  },
   "buildpacks": [
     {
       "url": "heroku/nodejs"
@@ -81,7 +81,3 @@
     }
   ]
 }
-
-    
-    
-    
