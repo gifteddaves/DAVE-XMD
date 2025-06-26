@@ -16,20 +16,12 @@
   <a href="https://github.com/gifteddevsmd/DAVE-XMD/fork"><img title="Fork Repo" src="https://img.shields.io/badge/Fork%20Repo-Click%20Here-yellow?style=for-the-badge&logo=github"></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/gifteddevsmd/DAVE-XMD/followers"><img title="Followers" src="https://img.shields.io/github/followers/gifteddevsmd?color=blue&style=flat-square"></a>
-  <a href="https://github.com/gifteddevsmd/DAVE-XMD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/gifteddevsmd/DAVE-XMD?color=blue&style=flat-square"></a>
-  <a href="https://github.com/gifteddevsmd/DAVE-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/gifteddevsmd/DAVE-XMD?color=blue&style=flat-square"></a>
-  <a href="https://github.com/gifteddevsmd/DAVE-XMD"><img title="Repo Size" src="https://img.shields.io/github/repo-size/gifteddevsmd/DAVE-XMD?style=flat-square&color=green"></a>
-  <a href="https://github.com/gifteddevsmd/DAVE-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
-</p>
-
 ---
 
 <p align="center">
-  Meet DAVE-XMD, Your All-in-One WhatsApp Bot Buddy!  
+  Meet <b>DAVE-XMD</b> — Your All-in-One WhatsApp Bot Buddy!  
   Enjoy a thrilling messaging experience like never before.  
-  Powerful, Fast, and Fully Customizable — it's your ultimate multi-tool for WhatsApp ✨🤖
+  Powerful, Fast, and Fully Customizable — your ultimate WhatsApp toolbox ✨🤖
 </p>
 
 ---
@@ -51,17 +43,14 @@
 
 ### 🌐 Deploy to Heroku
 
-**Step 1:** [Create an Account](https://signup.heroku.com)  
-**Step 2:** Click below to deploy 👇
-
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https://github.com/gifteddevsmd/DAVE-XMD">
     <img src="https://img.shields.io/badge/DEPLOY TO HEROKU-purple?style=for-the-badge&logo=heroku" width="250"/>
   </a>
 </p>
 
-📝 *Paste your session ID during setup*  
-🛡️ *Safe & easy for Heroku deployment*
+📝 Paste your session ID when asked  
+🛡️ Fully compatible with Heroku
 
 ---
 
@@ -78,21 +67,22 @@
 
 ---
 
-### 📦 Deploy on Panels
+### 📦 Deploy on Hosting Panels
 
-<details>
-<summary>HOSTING PANELS (Mediafire ZIP)</summary>
+<p align="center">
+  <a href="https://bot-hosting.net/?aff=1259151615210819614">
+    <img src="https://img.shields.io/badge/Bot Hosting-25D366?style=for-the-badge&logo=whatsapp" />
+  </a>
+  <a href="https://daki.cc/?aff=1259151615210819614">
+    <img src="https://img.shields.io/badge/Daki Panel-ffcc00?style=for-the-badge&logo=zap" />
+  </a>
+  <a href="https://solarhosting.cc/?aff=1259151615210819614">
+    <img src="https://img.shields.io/badge/Solar Hosting-f4d03f?style=for-the-badge&logo=sun" />
+  </a>
+</p>
 
-📥 [Download Files](https://www.mediafire.com/file/8mz179kpfz2x5az/DAVE_XMD.zip/file)
-
-**Panels You Can Use:**
-- 🌐 [Bot Hosting](https://bot-hosting.net/?aff=1259151615210819614)
-- ⚡ [Daki Panel](https://daki.cc/?aff=1259151615210819614)
-- ☀️ [Solar Hosting](https://solarhosting.cc/?aff=1259151615210819614)
-
-</details>
-
-> 🔧 Make changes to `settings.js` as needed.
+📦 Download ZIP File:  
+➡️ [Click Here](https://www.mediafire.com/file/8mz179kpfz2x5az/DAVE_XMD.zip/file)
 
 ---
 
@@ -112,13 +102,13 @@
 
 <p align="center">
   <a href="https://wa.me/254104260236">
-    <img src="https://img.shields.io/badge/Owner Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Contact Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://chat.whatsapp.com/CaPeB0sVRTrL3aG6asYeAC">
-    <img src="https://img.shields.io/badge/Join WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Join Group-green?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://whatsapp.com/channel/0029VbApvFQ2Jl84lhONkc3k">
-    <img src="https://img.shields.io/badge/WhatsApp Channel-green?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@davlodavlo19">
     <img src="https://img.shields.io/badge/YouTube-davlodavlo19-red?style=for-the-badge&logo=youtube" />
@@ -130,5 +120,5 @@
 
 ---
 
-⭐ **Star** this repo if you like this bot!  
-🍴 **Fork** it to customize it your way.
+⭐ Star this repo if you love it  
+🍴 Fork it and make it yours
