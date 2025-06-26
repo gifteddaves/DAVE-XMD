@@ -1,21 +1,21 @@
 //base by DGXeon
 //recode by Dave
-//YouTube: @Dave
+//YouTube: @davlodavlo19
 
 const fs = require('fs')
 const chalk = require('chalk')
 if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname + '/.env' })
 
-global.SESSION_ID = process.env.SESSION_ID || 'Bellah~2z40RA7T#VRneuCjwFxSYHupVJSJHZDNmNDE_THLCNxjVd9jGWuw'
+global.SESSION_ID = process.env.SESSION_ID || 'Dave~2z40RA7T#VRneuCjwFxSYHupVJSJHZDNmNDE_THLCNxjVd9jGWuw'
 
 // Owner vCard
-global.ytname = "YT: Dave" // your YouTube channel
+global.ytname = "YT: davlodavl19" // your YouTube channel
 global.socialm = "IG: @gifted_dave" // your Instagram or GitHub
 global.location = "Kenya" // your location
 
 // Bot Info
-global.botname = process.env.BOT_NAME || '𝐃𝐀𝐕𝐄 𝐗𝐌𝐃' // bot name
-global.ownernumber = process.env.OWNER_NUMBER || '254104245659' // owner number
+global.botname = process.env.BOT_NAME || '𝐃𝐀𝐕𝐄-𝐗𝐌𝐃' // bot name
+global.ownernumber = process.env.OWNER_NUMBER || '254104260236' // owner number
 global.ownername = '© Dave' // owner name
 global.websitex = "https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D" // channel link
 global.wagc = "https://chat.whatsapp.com/Hs0AwkOaFzbGi5sjicdeTR" // WhatsApp group
