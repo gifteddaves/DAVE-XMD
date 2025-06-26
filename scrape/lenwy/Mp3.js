@@ -1,15 +1,17 @@
 /*  
 
-  Made By: Dave
-  Base: DAVE-XMD
-  WhatsApp: wa.me/254104260236
-  Telegram: t.me/Digladoo
-  Instagram: https://www.instagram.com/_gifted_dave/profilecard/?igsh=MWFjZHdmcm4zMGkzNw==
+  Made By Dave
+  Base : Dave
+  WhatsApp : wa.me/254104260236
+  Telegram : t.me/Digladoo
+  Youtube : @davlodavlo19
 
-  Channel: https://whatsapp.com/channel/0029VbApvFQ2Jl84lhONkc3k
+  Channel : https://whatsapp.com/channel/0029VbApvFQ2Jl84lhONkc3k
 
-  Description: Function to download audio in MP3 format.
-  Do not remove this watermark if you're using or redistributing this code.
+  Copy Code?, Recode?, Rename?, Reupload?, Reseller? Taruh Credit Ya :D
+
+  Deskripsi: Fungsi Untuk Mengambil Hasil Download Dengan Format Mp3
+  Mohon Untuk Tidak Menghapus Watermark Di Dalam Kode Ini
 
 */
 
