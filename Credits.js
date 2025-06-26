@@ -2,13 +2,13 @@
 
 
 /* Reupload Atau Review Bot 
- * 1. Tag @GiddyTennor & @Ziyo232
+ * 1. Tag @Dave & @Ziyo232
  * 2. Tambahkan Saya ke Credits Kalo bisa
  *\
  
 /* Thanks To
-> Tennormodz ( Base / Creator )
-> Giddy Tennor ( Recode )
+> Dave  ( Base / Creator )
+> Dave ( Recode )
 > Always Ziyoo ( Add Fitur / Recode )
 > Always Kyuu ( KyuuDev / Add Fitur )
 > Subscriber ( Supporter )
