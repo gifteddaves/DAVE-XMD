@@ -15,6 +15,9 @@
   },
   "author": "Dave",
   "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "dependencies": {
     "@hapi/boom": "^10.0.1",
     "@vitalets/google-translate-api": "^9.2.0",
