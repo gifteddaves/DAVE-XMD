@@ -4,4 +4,4 @@ build:
       dockerfile: Dockerfile
 
 run:
-  worker: node main.js
+  worker: node index.js
