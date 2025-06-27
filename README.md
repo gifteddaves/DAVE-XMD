@@ -28,14 +28,11 @@
 
 ## 🚀 Deployment Methods
 
-### 🔑 Get Your Pairing Session (No QR Code Needed)
+### 🔑 Get Your Pairing Session (QR or Number Code)
 
 <p align="center">
-  <a href="https://xmd-pair-2.onrender.com">
-    <img src="https://img.shields.io/badge/Pairing Site 1-green?style=for-the-badge&logo=whatsapp" />
-  </a>
-  <a href="https://xmd-pair-code.onrender.com">
-    <img src="https://img.shields.io/badge/Pairing Site 2-blue?style=for-the-badge&logo=whatsapp" />
+  <a href="https://davesxmd-03209e7609ef.herokuapp.com/">
+    <img src="https://img.shields.io/badge/Pairing Site-DAVE--XMD-green?style=for-the-badge&logo=whatsapp" />
   </a>
 </p>
 
