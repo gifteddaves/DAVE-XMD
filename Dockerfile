@@ -16,8 +16,8 @@ RUN npm install
 # Copy all project files
 COPY . .
 
-# Expose bot port if needed
+# Expose port (if your bot runs a server e.g., for dashboard/pairing API)
 EXPOSE 3000
 
-# Start the bot
-CMD ["node", "main.js"]
+# Start the bot from index.js
+CMD ["node", "index.js"]
