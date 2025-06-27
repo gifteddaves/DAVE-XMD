@@ -1,26 +1,32 @@
 {
-  "name": "DAVE-XMD",
+  "name": "DAVE-BotS-XMD",
   "version": "1.0.0",
-  "description": "WhatsApp Bot by Dave",
-  "main": "main.js",
+  "description": "Whatsapp Bot By Dave",
+  "main": "index.js",
   "type": "commonjs",
+  "directories": {
+    "lib": "lib",
+    "src": "src",
+    "media": "XeonMedia"
+  },
   "scripts": {
-    "start": "node main.js"
+    "code": "node main.js",
+    "start": "node index.js"
   },
-  "engines": {
-    "node": "20.x",
-    "npm": "10.x"
-  },
+  "author": "Dave",
+  "license": "MIT",
   "dependencies": {
     "@hapi/boom": "^10.0.1",
     "@vitalets/google-translate-api": "^9.2.0",
-    "@whiskeysockets/baileys": "^6.7.18",
+    "baileys-pro": "latest",
+    "maher-zubair-baileys": "^6.6.5",
+    "@whiskeysockets/baileys": "github:cheekydavy/mbuvi-baileys",
+    "baileys-elite": "latest",
     "anime-wallpaper": "^1.0.2",
     "api-dylux": "^1.4.4",
     "aptoide-scraper": "^1.0.1",
     "awesome-phonenumber": "^5.9.0",
     "axios": "^1.4.0",
-    "canvas": "^2.11.2",
     "cfonts": "^3.2.0",
     "chalk": "^4.1.2",
     "cheerio": "^1.0.0-rc.12",
