@@ -11,9 +11,9 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/gifteddevsmd"><img title="Author" src="https://img.shields.io/badge/Author-Gifted%20Dave-blue?style=for-the-badge&logo=github"></a>
-  <a href="https://github.com/gifteddevsmd/DAVE-XMD"><img title="Repo" src="https://img.shields.io/badge/View%20Source-DAVE--XMD-success?style=for-the-badge&logo=github"></a>
-  <a href="https://github.com/gifteddevsmd/DAVE-XMD/fork"><img title="Fork Repo" src="https://img.shields.io/badge/Fork%20Repo-Click%20Here-yellow?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/gifteddaves"><img title="Author" src="https://img.shields.io/badge/Author-Gifted%20Dave-blue?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/gifteddaves/DAVE-XMD"><img title="Repo" src="https://img.shields.io/badge/View%20Source-DAVE--XMD-success?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/gifteddaves/DAVE-XMD/fork"><img title="Fork Repo" src="https://img.shields.io/badge/Fork%20Repo-Click%20Here-yellow?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
@@ -44,7 +44,7 @@
 ### 🌐 Deploy to Heroku
 
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/gifteddevsmd/DAVE-XMD">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/gifteddaves/DAVE-XMD">
     <img src="https://img.shields.io/badge/DEPLOY TO HEROKU-purple?style=for-the-badge&logo=heroku" width="250"/>
   </a>
 </p>
@@ -102,7 +102,7 @@
 
 <p align="center">
   <a href="https://wa.me/254104260236">
-    <img src="https://img.shields.io/badge/Contact Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Contact%20Me-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://chat.whatsapp.com/CaPeB0sVRTrL3aG6asYeAC">
     <img src="https://img.shields.io/badge/Join Group-green?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -113,12 +113,18 @@
   <a href="https://www.youtube.com/@davlodavlo19">
     <img src="https://img.shields.io/badge/YouTube-davlodavlo19-red?style=for-the-badge&logo=youtube" />
   </a>
-  <a href="https://github.com/gifteddevsmd">
-    <img src="https://img.shields.io/badge/GitHub-gifteddevsmd-black?style=for-the-badge&logo=github" />
+  <a href="https://github.com/gifteddaves">
+    <img src="https://img.shields.io/badge/GitHub-gifteddaves-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.instagram.com/_gifted_dave/profilecard/?igsh=MWFjZHdmcm4zMGkzNw==">
+    <img src="https://img.shields.io/badge/Instagram-_gifted_dave-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://t.me/Digladoo">
+    <img src="https://img.shields.io/badge/Telegram-Digladoo-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-⭐ Star this repo if you love it  
-🍴 Fork it and make it yours
+⭐ **Star this repo** if you love it  
+🍴 **Fork it and make it yours**
