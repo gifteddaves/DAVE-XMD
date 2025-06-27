@@ -4,19 +4,12 @@
   "description": "WhatsApp Bot by Dave",
   "main": "main.js",
   "type": "commonjs",
-  "directories": {
-    "lib": "lib",
-    "src": "src",
-    "media": "XeonMedia"
-  },
   "scripts": {
-    "start": "node main.js",
-    "code": "node main.js"
+    "start": "node main.js"
   },
-  "author": "Dave",
-  "license": "MIT",
   "engines": {
-    "node": "18.x"
+    "node": "18.x",
+    "npm": "9.x"
   },
   "dependencies": {
     "@hapi/boom": "^10.0.1",
